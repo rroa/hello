@@ -3,6 +3,9 @@
 *.lo
 *.o
 *.obj
+*.db
+*.VC.db
+*.VC
 
 # Precompiled Headers
 *.gch
